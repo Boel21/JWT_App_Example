@@ -1,0 +1,3 @@
+***********************----- JWT ----**************************
+1 - JWT: stands for Json web token.
+    * -> Used to securely transfer information between two parties like backend and frontend. 
